@@ -19,17 +19,15 @@ Hostel_Management
 │   ├── Models
 │   ├── Repository
 │   ├── Security
-│   ├── Service
-│   └── TechwaysApplication.java
+│   └──  Service
 │
 ├── Frontend
 │   ├── Components
 │   │   ├── Admin
 │   │   ├── Attendance
 │   │   ├── Auth
-│   │   ├── Courses
-│   │   ├── Faculty
-│   │   ├── Result
+│   │   ├── Rooms
+│   │   ├── Wardens
 │   │   └── Students
 │   ├── Pages
 │   ├── assets
